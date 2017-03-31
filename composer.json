@@ -1,12 +1,16 @@
 {
-    "name": "aejnsn/postgresify",
-    "description": "Extended PostgreSQL Functionality for Laravel",
+    "name": "zhhhe/postgresify",
+    "description": "Extended PostgreSQL Functionality for Laravel,fork from aejnsn/postgresify",
     "keywords": ["postgresql", "pgsql", "laravel", "lumen", "types"],
     "license": "MIT",
     "authors": [
         {
             "name": "Aaron Johnson",
             "email": "aaron@aejnsn.com"
+        },
+        {
+            "name": "zhhhe",
+            "email": "baizhebz@gmail.com"
         }
     ],
     "require": {
