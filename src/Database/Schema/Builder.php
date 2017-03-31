@@ -3,7 +3,7 @@
 namespace Aejnsn\Postgresify\Database\Schema;
 
 use Closure;
-use Illuminate\Database\Schema\Builder as BaseBuilder;
+use Illuminate\Database\Schema\PostgresBuilder as BaseBuilder;
 
 class Builder extends BaseBuilder
 {
