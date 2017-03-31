@@ -5,12 +5,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Aaron Johnson",
-            "email": "aaron@aejnsn.com"
-        },
-        {
             "name": "zhhhe",
             "email": "baizhebz@gmail.com"
+        },
+        {
+            "name": "Aaron Johnson",
+            "email": "aaron@aejnsn.com"
         }
     ],
     "require": {
